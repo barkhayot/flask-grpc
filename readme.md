@@ -3,7 +3,7 @@
 This repository contains a simple example of the process creating Flask API Gateway to interact with gRPC microservices.
 
 
-![Alt Text](logic.png)
+![Alt Text](pic.png)
 
 ## Getting Started
 
