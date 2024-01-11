@@ -1,4 +1,4 @@
-# Building a Flask API Gateway for gRPC Microservices: A Practical Guide
+# Flask API Gateway for gRPC Microservices
 
 This repository contains a simple example of the process creating Flask API Gateway to interact with gRPC microservices.
 
